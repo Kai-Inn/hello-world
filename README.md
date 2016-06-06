@@ -1,2 +1,2 @@
-# hello-world
-another new
+I'm Kai
+i am begginner in development
